@@ -21,8 +21,7 @@
 
     $ php artisan key:generate
 
-#Configurar o o arquivo .env com base no seu Banco de Dados
-#Configure os dados de seu SMTP para envio de confirmação do email cadastrado
+#Configurar o arquivo .env com base no seu Banco de Dados e os dados SMTP para envio de email
 
 #Execute as migrations
 
